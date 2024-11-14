@@ -15,10 +15,10 @@ Amazon is an American multinational technology company based in Seattle, United 
 - Dividing the training + validation data into 80:20 (training data: testing data)
 - Creating a prediction model using multiple linear regression methods, support vector regression and random forest regression
 - Testing all models using testing data
-- Selecting the model with the highest R-Sq value, then testing the model with the actual testing data to produce regression prediction results
+- Selecting the model with the highest R-Sq value, then testing the model with the actual testing data to produce <a href="https://github.com/Nathasyarnt/Sales-Prediction-and-Classification-Models/tree/main/Result">regression prediction results</a>
 - Creating a classification model using the binary logistic regression method, support vector machine, decision tree and random forest classification
 - Testing all models using testing data
-- Selecting the model with the highest R-Sq value, then testing the model with the actual testing data to produce classification prediction results
+- Selecting the model with the highest R-Sq value, then testing the model with the actual testing data to produce  <a href="https://github.com/Nathasyarnt/Sales-Prediction-and-Classification-Models/tree/main/Result">classification prediction results</a>
 
 
 ## Project Result
